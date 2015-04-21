@@ -20,7 +20,7 @@
 # e.g.  repository_root: "http://example.com/oracle-jre/{platform}/{architecture}"
 
 repository_root: "http://b69f96f4-1780-4f4a-ad7a-0506580b0700.eu-gb.mybluemix.net/oracle-jre/{platform}/{architecture}"
-version: 1.6.0_+
+version: 1.7.0_+
 memory_sizes:
 #  metaspace: 64m..
   permgen: 64m..
